@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Akhilesh K 👋
 
-<!--
-**akdevspace/akdevspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I’m a Computer Science student interested in software development,
+web technologies, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- Java
+- C & Data Structures
+- JavaScript
+- React
+- Node.js & Express
+- SQL & Databases
+- Git & GitHub
+
+### 🛠️ Projects
+
+- 🔄 CampuSync — Student Academic, Attendance & Fee Management System
+- 🔥 More projects coming soon...
+
+### 🎯 Goal
+
+To keep learning, building, and improving as a software developer.
+
+---
+
+⭐ Thanks for visiting my profile!
