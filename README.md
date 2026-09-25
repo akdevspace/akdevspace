@@ -29,26 +29,6 @@
 
 ---
 
-## About
-
-I am a **Computer Science Engineering student** focused on building reliable software systems, modern web applications, and technically strong products.
-
-My engineering interests span **software engineering, full-stack development, backend systems, databases, AI/ML, and product engineering**. I enjoy understanding how systems work internally and turning concepts into practical, maintainable applications.
-
-My current development journey is centered around **Java, data structures & algorithms, React, Node.js, Express, MongoDB, SQL, Git/GitHub, and modern software architecture**.
-
-I approach projects with an engineering mindset: understand the problem, design the system, build incrementally, test the implementation, and continuously improve it.
-
-### Engineering Interests
-
-- Software Engineering & System Design
-- Full-Stack Web Development
-- Backend Engineering
-- Data Structures & Algorithms
-- AI / ML & Applied Intelligent Systems
-- Databases & Distributed Systems
-- Developer Tools & Infrastructure
-- Product Engineering
 
 ### Open To
 
@@ -79,7 +59,6 @@ I approach projects with an engineering mindset: understand the problem, design 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4338CA?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-5B21B6?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4F46E5?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 </p>
 
@@ -88,11 +67,9 @@ I approach projects with an engineering mindset: understand the problem, design 
 <p align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-312E81?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-4338CA?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5B21B6?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Oracle](https://img.shields.io/badge/Oracle-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-3730A3?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 </p>
 
@@ -103,128 +80,16 @@ I approach projects with an engineering mindset: understand the problem, design 
 ![Git](https://img.shields.io/badge/Git-312E81?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-5B21B6?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-4F46E5?style=for-the-badge&logo=figma&logoColor=white)
 
 </p>
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Developing | Building foundational understanding of ML workflows, algorithms, and practical applications |
-| Artificial Intelligence | Developing | Exploring AI concepts and integrating intelligent capabilities into software products |
-| Data Analysis | Developing | Working with structured data and developing analytical problem-solving skills |
-| AI-Assisted Development | Advanced | Using modern AI tools to accelerate development, debugging, research, and product ideation |
-| Intelligent Applications | Developing | Exploring practical AI/ML use cases within full-stack applications |
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>CampuSync — Student Mentoring & Attendance Intelligence Platform</strong></summary>
 
 <br/>
 
-A full-stack academic management platform designed around **student attendance, mentoring workflows, attendance forecasting, and actionable academic insights**.
 
-| Engineering Area | Implementation |
-|---|---|
-| Stack | React · Node.js · Express · MongoDB · JavaScript |
-| Scale | Designed for mentor dashboards managing 60–70 students |
-| Performance | Lightweight dashboards with efficient data retrieval and calculations |
-| Security | Role-based access and controlled academic data exposure |
-| Impact | Helps mentors understand attendance patterns and identify students requiring attention |
-| Repository | GitHub project repository |
-
-### Core Engineering Scope
-
-- Student attendance visualization
-- Mentor dashboard
-- Student-wise attendance analysis
-- Attendance requirement calculations
-- Attendance percentage tracking
-- Academic monitoring workflows
-- Fine calculation support
-- Data-driven mentoring insights
-- Scalable architecture for college-level usage
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>Redis in Java — In-Memory Data Store Implementation</strong></summary>
-
-<br/>
-
-A systems-oriented learning project focused on understanding how an **in-memory key-value database** works internally by implementing Redis-inspired functionality in Java.
-
-| Engineering Area | Implementation |
-|---|---|
-| Stack | Java · Data Structures · Networking · File I/O |
-| Scale | Designed as a compact educational systems implementation |
-| Performance | Focused on in-memory operations and efficient data structures |
-| Security | Controlled command and connection handling |
-| Impact | Develops practical understanding of caching, databases, and server architecture |
-| Repository | GitHub project repository |
-
-### Core Engineering Scope
-
-- Key-value storage
-- In-memory data management
-- Command processing
-- Java-based server architecture
-- Data structure optimization
-- Persistence concepts
-- Networking fundamentals
-- Database internals exploration
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>Data Structures & Algorithms Engineering Repository</strong></summary>
-
-<br/>
-
-A structured collection of algorithmic implementations developed while strengthening **problem-solving, algorithm design, and Java programming fundamentals**.
-
-| Engineering Area | Implementation |
-|---|---|
-| Stack | Java · C · Algorithms · Data Structures |
-| Scale | Multiple fundamental and advanced DSA problems |
-| Performance | Complexity-aware implementations |
-| Security | Not applicable to algorithmic implementations |
-| Impact | Builds strong foundations for software engineering interviews |
-| Repository | GitHub project repository |
-
-### Core Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- BFS
-- DFS
-- Dijkstra
-- Kruskal
-- Sorting Algorithms
-- Binary Search
-- Heaps
-- Dynamic Programming
-- Backtracking
-- N-Queens
-- Subset Sum
-
-</details>
 
 ---
 
