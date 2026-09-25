@@ -1,6 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=&fontSize=0" width="100%"/>
+<p>
+<h1 align="center">AKHILESH K</h1>
+
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Software+Engineer+in+Progress;Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;AI%2FML+%26+Product+Engineering+Enthusiast" alt="Typing SVG"/>
@@ -35,8 +39,7 @@
 `Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `AI/ML Projects` · `Open Source` · `Technical Collaborations`
 
 ---
-
-## Tech Stack
+<div align="center">
 
 ### Languages
 
@@ -85,7 +88,7 @@
 </p>
 
 ---
-
+</div>
 
 <br/>
 
@@ -93,78 +96,15 @@
 
 ---
 
-## Experience
-
-### Software Engineering & Development — Academic / Personal Projects
 
 `2026 — Present`
 
 Focused on developing practical software engineering capabilities through academic projects, independent development, and structured problem solving.
 
-#### Scope of Work
-
-- Designing full-stack application architectures
-- Building Java-based data structures and algorithms
-- Developing frontend interfaces with React
-- Exploring backend development using Node.js and Express
-- Working with MongoDB, MySQL, and Oracle SQL
-- Building systems-oriented projects with Java
-- Practicing Git and GitHub workflows
-- Exploring AI/ML concepts and applications
-- Studying software architecture and system design
-- Developing academic and resume-oriented engineering projects
 
 **Skills:** `Java` `C` `JavaScript` `React` `Node.js` `Express` `MongoDB` `SQL` `Git` `GitHub` `DSA` `System Design`
 
----
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Computer Science Engineering | Pursuing undergraduate engineering studies with a software engineering focus |
-| Full-Stack Development | Building applications across frontend, backend, databases, and APIs |
-| DSA Practice | Consistent implementation of core data structures and algorithms |
-| Systems Engineering | Exploring database internals and Redis-inspired architecture using Java |
-| Academic Projects | Developing practical software solutions for university and portfolio projects |
-| Technical Growth | Continuously expanding skills across software engineering, AI/ML, and modern development tooling |
-
-</div>
-
----
-
-## Certifications
-
-### AWS
-
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-
-### Oracle
-
-[![Oracle](https://img.shields.io/badge/Oracle-Database%20Learning-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
-### NPTEL
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20Learning-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://nptel.ac.in/)
-
-### Cisco
-
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Learning-4338CA?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-312E81?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-</div>
 
 ---
 
@@ -186,35 +126,6 @@ Focused on developing practical software engineering capabilities through academ
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com//output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
